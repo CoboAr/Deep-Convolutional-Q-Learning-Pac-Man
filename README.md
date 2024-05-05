@@ -33,7 +33,8 @@ Pacman has the action space of Discrete(5) with the table below listing the mean
    <li>MsPacmanDeterministic-v0</li>
  </ul>
 
- Detereministic means that the monsters will be deterministic to make the environment less complex, and v0 is the initial version release.
+ Detereministic means that the monsters will be deterministic to make the environment less complex, and v0 is the initial version release.   
+ The enviroment will be solved if the score is greater or equal to 500.
 
 
 Enjoy! And please do let me know if you have any comments, constructive criticism, and/or bug reports.
